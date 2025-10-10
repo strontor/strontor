@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./strontor.gif" alt="Profile Banner" width="100%" style="border-radius: 12px;" />
+  <img src="./strontor.gif" alt="Profile Banner" width="50%" style="border-radius: 12px;" />
 </div>  
 
 <h1 align="center">Hey there 👋, I'm Shivansh Singh Maurya</h1>
