@@ -83,12 +83,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=strontor&icon=4&color=0" />
-</p>
-
----
-
 ## ☕ Support My Work
 <p align="center">
   <a href="https://buymeacoffee.com/strontor" target="_blank">
