@@ -91,7 +91,7 @@
 
 ## ☕ Support My Work
 <p align="center">
-  <a href="https://buymeacoffee.com/qfeFQwfds" target="_blank">
+  <a href="https://buymeacoffee.com/strontor" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-ffdd00?style=for-the-badge&logo=buymeacoffee&logoColor=black" />
   </a>
 </p>
