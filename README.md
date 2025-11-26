@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="./strontor.gif" alt="Profile Banner" width="30%" height="30%" style="border-radius: 12px;" />
-</div>  
+
 
 <h1 align="center">Hey there, I'm Shivansh S. Maurya</h1>
 <h3 align="center">🚀 Full Stack Developer | ⚙️ System Design Enthusiast | 💡 Creative Technologist</h3>
